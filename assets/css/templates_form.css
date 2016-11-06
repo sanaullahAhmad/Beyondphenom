@@ -1,0 +1,22 @@
+#ex1Slider .slider-selection {
+	background: #BABABA;
+	    width: 50%;
+}
+#colorpicker7 {
+    float: left;
+    width: 110%;
+    height: 24px;
+    border: 1px solid #DDD;
+    margin-top: -2px;
+    margin-left: -14px;
+    z-index: 1;
+}	
+#colorpicker8 {
+    float: left;
+    width: 110%;
+    height: 24px;
+    border: 1px solid #DDD;
+    margin-top: -2px;
+    margin-left: -14px;
+    z-index: 1;
+}	

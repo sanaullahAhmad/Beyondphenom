@@ -1,0 +1,1102 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prod",
+				"productimageurl"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"Product",
+				"ProductThumbnail"
+			],
+			[
+				"product",
+				"productthumbnail"
+			],
+			[
+				"thum",
+				"productThumbnail"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/wamp/www/tim/old/.htaccess",
+			"settings":
+			{
+				"buffer_size": 283,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/wamp/www/tim/old/application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 12873,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/wamp/www/tim/old/application/controllers/admin/admin.php",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 85.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/wamp/www/tim/old/application/libraries/anet_php_sdk/lib/AuthorizeNetDPM.php",
+		"/E/wamp/www/tim/old/application/config/autoload.php",
+		"/E/wamp/www/tim/old/system/core/Config.php",
+		"/E/wamp/www/tim/old/system/database/drivers/sqlite/sqlite_result.php",
+		"/E/wamp/www/tim/old/system/database/drivers/sqlite/sqlite_utility.php",
+		"/E/wamp/www/tim/old/public/admin/js/datatable/examples/basic_init/state_save.html",
+		"/E/wamp/www/tim/old/application/libraries/phpthumb/ThumbBase.inc.php",
+		"/E/wamp/www/tim/old/public/frontend/.sass-cache/12d1dbf6c638e3fe98b3fc01e72f5059b8453f67/_background-size.scssc",
+		"/E/wamp/www/tim/old/application/controllers/admin/manageflyers_backup.php",
+		"/E/wamp/www/tim/old/property_blast.sql",
+		"/E/wamp/www/tim/old/application/config/config.php",
+		"/E/wamp/www/tim/old/.htaccess",
+		"/E/wamp/www/tim/old/application/.htaccess",
+		"/E/wamp/www/tim/old/.gitignore",
+		"/E/wamp/www/tim/old/application/config/foreign_chars.php",
+		"/E/wamp/www/tim/old/public/frontend/.sass-cache/12d1dbf6c638e3fe98b3fc01e72f5059b8453f67/_appearance.scssc",
+		"/E/wamp/www/tim/old/public/admin/js/datatable/examples/basic_init/alt_pagination.html",
+		"/E/wamp/www/tim/old/public/frontend/css/animations.css",
+		"/E/wamp/www/tim/old/system/core/Common.php",
+		"/E/wamp/www/tim/old/system/core/CodeIgniter.php",
+		"/E/wamp/www/tim/old/public/frontend/.sass-cache/12d1dbf6c638e3fe98b3fc01e72f5059b8453f67/_inline-block.scssc",
+		"/E/wamp/www/tim/old/system/database/drivers/cubrid/cubrid_forge.php",
+		"/E/wamp/www/flyer-designer/application/config/config.php",
+		"/E/wamp/www/flyer-designer/error_log",
+		"/E/wamp/www/flyer-designer/application/config/autoload.php",
+		"/E/wamp/www/flyer-designer/index.php",
+		"/E/wamp/www/flyer-designer/application/config/database.php",
+		"/C/Users/Peham/AppData/Local/Temp/fz3temp-1/database.php",
+		"/E/wamp/www/tim/old/index.php",
+		"/E/wamp/www/flyer-designer/application/index.html",
+		"/E/wamp/www/flyer-designer/application/config/routes.php",
+		"/E/wamp/www/beyondphenom/.htaccess",
+		"/E/wamp/www/flyer-designer/database.sql",
+		"/E/wamp/www/flyer-designer/.htaccess",
+		"/E/wamp/www/flyer-designer/application/models/admin/flyersmodel.php",
+		"/E/wamp/www/flyer-designer/system/language/english/ftp_lang.php",
+		"/E/wamp/www/flyer-designer/system/libraries/Ftp.php",
+		"/E/wamp/www/flyer-designer/public/admin/js/datatable/extensions/Scroller/examples/large_js_source.html",
+		"/E/wamp/www/flyer-designer/tiny_mce/themes/advanced/skins/o2k7/._dialog.css",
+		"/E/wamp/www/flyer-designer/tiny_mce/themes/advanced/skins/default/._dialog.css",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/legacyoutput/._editor_plugin_src.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/layer/._editor_plugin_src.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/imgmanager/js/._dialog.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/example/js/._dialog.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/legacyoutput/editor_plugin_src.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/layer/editor_plugin_src.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/themes/advanced/skins/o2k7/dialog.css",
+		"/E/wamp/www/flyer-designer/tiny_mce/themes/advanced/skins/default/dialog.css",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/imgmanager/js/dialog.js",
+		"/E/wamp/www/flyer-designer/tiny_mce/plugins/example/js/dialog.js",
+		"/E/wamp/www/flyer-designer/application/logs/index.html",
+		"/E/wamp/www/flyer-designer/application/logs/._index.html",
+		"/E/wamp/www/flyer-designer/license.txt",
+		"/E/wamp/www/beyondphenom/application/models/users_model.php",
+		"/E/wamp/www/beyondphenom/application/controllers/old.users.php",
+		"/E/wamp/www/beyondphenom/application/controllers/User.php",
+		"/E/wamp/www/beyondphenom/system/core/Controller.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Fonts.php",
+		"/E/wamp/www/beyondphenom/application/config/config.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Pattern_collections.php",
+		"/C/Users/Peham/AppData/Local/Temp/7zO421E9C81/autoload.php",
+		"/C/Users/Peham/AppData/Local/Temp/7zO421768A1/app.php",
+		"/E/wamp/www/beyondphenom/application/views/user/incs/.env",
+		"/C/Users/Peham/AppData/Local/Temp/s8a_QAxF",
+		"/C/Users/Peham/AppData/Local/Temp/index.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/templates_form.rar",
+		"/E/wamp/www/beyondphenom/application/views/admin/templates_form.php",
+		"/E/wamp/www/beyondphenom/assets/css/templates_form.css",
+		"/E/wamp/www/beyondphenom/application/models/Templates_model.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Templates.php",
+		"/E/wamp/www/beyondphenom/application/models/Patterns_model.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/patterns_list.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/patterns_form.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Products.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/header.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Patterns.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/products_form.php",
+		"/E/wamp/www/beyondphenom/application/views/user/incs/main_footer.php",
+		"/E/wamp/www/beyondphenom/application/views/user/incs/main_header.php",
+		"/E/wamp/www/beyondphenom/assets/css/user/navbar-fixed-top.css",
+		"/E/wamp/www/beyondphenom/application/controllers/users.php",
+		"/E/wamp/www/beyondphenom/application/views/user/index.php",
+		"/E/wamp/www/beyondphenom/user_guide/database/examples.html",
+		"/E/wamp/www/beyondphenom/user_guide/general/errors.html",
+		"/E/wamp/www/beyondphenom/user_guide/database/results.html",
+		"/E/wamp/www/beyondphenom/application/views/users/incs/navbar.php",
+		"/E/wamp/www/beyondphenom/application/views/users/index.php",
+		"/E/wamp/www/beyondphenom/assets/js/user/bootstrap.min.js",
+		"/E/wamp/www/beyondphenom/assets/js/bootstrap.js",
+		"/E/wamp/www/beyondphenom/assets/js/user/fabric/custom-fabric.js",
+		"/E/wamp/www/beyondphenom/application/views/users/js/ie-emulation-modes-warning.js",
+		"/E/wamp/www/beyondphenom/application/views/users/js/script.js",
+		"/E/wamp/www/beyondphenom/application/views/users/js/jquery.js",
+		"/E/wamp/www/beyondphenom/application/views/admin/footer.php",
+		"/E/wamp/www/beyondphenom/application/controllers/Admins.php",
+		"/E/wamp/www/beyondphenom/application/config/autoload.php",
+		"/E/wamp/www/beyondphenom/index.php",
+		"/E/wamp/www/beyondphenom/user_guide/helpers/date_helper.html",
+		"/E/wamp/www/beyondphenom/public/Phenam/index.html",
+		"/E/wamp/www/beyondphenom/application/views/admin/login_box.php",
+		"/C/Users/Peham/AppData/Local/Temp/fz3temp-2/555a386fb9328.png",
+		"/C/Windows/System32/drivers/etc/old.hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/wamp/www/beyondphenom/system/language/english/email_lang.php",
+		"/E/wamp/www/beyondphenom/system/libraries/Email.php",
+		"/E/wamp/www/beyondphenom/assets/manager/php/elFinderVolumeMySQL.class.php",
+		"/E/wamp/www/beyondphenom/.phpintel/e17c7543fbf51926e420ea7aba4bf07b",
+		"/E/wamp/www/beyondphenom/application/views/admin/products_list.php",
+		"/E/wamp/www/beyondphenom/application/models/Products_model.php",
+		"/E/wamp/www/beyondphenom/assets/css/main.css",
+		"/E/wamp/www/beyondphenom/assets/js/fabric/templates-fabric.js",
+		"/E/wamp/www/beyondphenom/assets/js/fabric/templates_read.js",
+		"/E/wamp/www/crudgen/.env.example",
+		"/E/wamp/www/crudgen/.env",
+		"/E/wamp/www/beyondphenom/assets/js/fabric/custom-fabric.js",
+		"/E/wamp/www/beyondphenom/assets/js/fabric/fabric.min.js",
+		"/E/wamp/www/beyondphenom/user_guide/_static/fonts/FontAwesome.otf",
+		"/E/wamp/www/beyondphenom/ftpsync.settings",
+		"/E/wamp/www/beyondphenom/application/views/admin/patterns_doc.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/templates_list.php",
+		"/E/wamp/www/bptest/application/config/database.php",
+		"/E/wamp/www/beyondphenom/application/views/admin/templates_read.php",
+		"/E/wamp/www/beyondphenom/composer.json",
+		"/E/wamp/www/beyondphenom/.gitignore",
+		"/C/Users/Peham/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/E/wamp/www/beyondphenom/application/controllers/Myadmin.php",
+		"/E/wamp/www/beyondphenom/beyondphenom.sublime-project",
+		"/E/wamp/www/beyondphenom/harviacode/core/create_controller.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"E:\\wamp\\www\\beyondphenom",
+			"E:\\wamp\\www\\beyondphenom\\assets",
+			"E:\\wamp\\www\\flyer-designer\\application\\views\\frontend",
+			"<?php echo base_url(); ?>",
+			"E:\\wamp\\www\\flyer-designer\\application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main",
+			"welcome",
+			"value=\"90\"",
+			"width",
+			"70",
+			"60px",
+			"30px",
+			"value=\"90",
+			"css/",
+			"base_url",
+			"css/",
+			"\"></s",
+			"js/",
+			"js",
+			"0",
+			"1",
+			"ft",
+			"0",
+			"        <?php if($this->uri->segment(2)=='update') {?>\n",
+			"l-md-4",
+			"120px",
+			"ProductThumbnail",
+			"Product Thumbnail",
+			"patterns",
+			"image",
+			"Patterns",
+			"patterns",
+			"upload_files",
+			"remove",
+			"lock",
+			"color",
+			"color: ",
+			"btn-sm",
+			"16px; \">",
+			"btn-default",
+			"data-placement",
+			"target",
+			"tooltip",
+			"data-target",
+			" title=\"",
+			"type=\"button",
+			"button",
+			"type=\"button\" ",
+			"src",
+			"text",
+			"<span aria-hidden=\"true\"",
+			"remove",
+			"danger",
+			"template_detail",
+			"ADD TEXT</a>",
+			"panel-heading",
+			"margin-top: 3px;",
+			"\n                          ",
+			"tooltip",
+			"\n                          ",
+			"510",
+			"f10",
+			"font-awesome",
+			"collapse2",
+			"500",
+			"selected_product",
+			"product",
+			".",
+			"panel-title",
+			"title",
+			"var",
+			"helper",
+			"heleper",
+			"button",
+			"else{ echo",
+			"else echo",
+			"echo 'no",
+			"login",
+			"ProductThumbnail",
+			"productThumbnail",
+			"productImageUrl",
+			"productDescription",
+			"ProductThumbnail",
+			"site_url",
+			"email",
+			"welcome_message",
+			"index(",
+			"logout",
+			"helper",
+			"thumbnail",
+			"[",
+			"Product",
+			"har\">Product",
+			"h>Product",
+			">Product",
+			"product",
+			"Product",
+			"font",
+			"Font",
+			"font",
+			">Product",
+			"ProductType",
+			" <!-- <div class=\"form-group\"> -->",
+			"Type",
+			">Template",
+			"Template",
+			"font",
+			"Font",
+			"font",
+			"overwrite",
+			">Template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"template",
+			"Template",
+			"collection",
+			"font",
+			"Font",
+			"font",
+			");\n",
+			");",
+			"Font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"F15A25",
+			"<?php echo base_url(); ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/wamp/www/tim/old/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/wamp/www/tim/old/application/config/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/wamp/www/tim/old/application/controllers/admin/admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "old flyer designer.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"admin",
+				"application\\controllers\\admin\\admin.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				".",
+				"application\\.htaccess"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"confi",
+				"system\\core\\Config.php"
+			],
+			[
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"data",
+				"database.sql"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"auto",
+				"application\\config\\autoload.php"
+			],
+			[
+				"errorlog",
+				"error_log"
+			],
+			[
+				"controluser",
+				"application\\controllers\\User.php"
+			],
+			[
+				"users",
+				"application\\controllers\\users.php"
+			],
+			[
+				"tempate_form",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"user/inde",
+				"application\\views\\user\\index.php"
+			],
+			[
+				"user/navbar.php",
+				"application\\views\\user\\incs\\navbar.php"
+			],
+			[
+				"user/nav",
+				"assets\\css\\user\\navbar-fixed-top.css"
+			],
+			[
+				"admin/hea",
+				"application\\views\\admin\\header.php"
+			],
+			[
+				"users/in",
+				"application\\views\\users\\index.php"
+			],
+			[
+				"login_bo",
+				"application\\views\\admin\\login_box.php"
+			],
+			[
+				"prod",
+				"application\\controllers\\Products.php"
+			],
+			[
+				"teempafo",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"productform",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"prodli",
+				"application\\views\\admin\\products_list.php"
+			],
+			[
+				"patternli",
+				"application\\views\\admin\\patterns_list.php"
+			],
+			[
+				"patternform",
+				"application\\views\\admin\\patterns_form.php"
+			],
+			[
+				"products",
+				"application\\controllers\\Products.php"
+			],
+			[
+				"pattermod",
+				"application\\models\\Patterns_model.php"
+			],
+			[
+				"pattern",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"tempform",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"header",
+				"application\\views\\admin\\header.php"
+			],
+			[
+				"tempfab",
+				"assets\\js\\fabric\\templates-fabric.js"
+			],
+			[
+				"fabric",
+				"assets\\js\\fabric\\custom-fabric.js"
+			],
+			[
+				"adminhe",
+				"application\\views\\admin\\header.php"
+			],
+			[
+				"patterns",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"pattersmo",
+				"application\\models\\Patterns_model.php"
+			],
+			[
+				"hea",
+				"application\\views\\admin\\header.php"
+			],
+			[
+				"footer",
+				"application\\views\\admin\\footer.php"
+			],
+			[
+				"template_form",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"tempreadjs",
+				"assets\\js\\fabric\\templates_read.js"
+			],
+			[
+				"templmo",
+				"application\\models\\Templates_model.php"
+			],
+			[
+				"ftp",
+				"ftpsync.settings"
+			],
+			[
+				"main",
+				"assets\\css\\main.css"
+			],
+			[
+				"productmod",
+				"application\\models\\Products_model.php"
+			],
+			[
+				"tempa",
+				"application\\models\\Templates_model.php"
+			],
+			[
+				"",
+				"beyondphenom.sublime-project"
+			],
+			[
+				"temp",
+				"application\\controllers\\Templates.php"
+			],
+			[
+				"update",
+				"user_guide\\helpers\\date_helper.html"
+			],
+			[
+				"ft",
+				"ftpsync.settings"
+			],
+			[
+				"templateform",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"daa",
+				"application\\config\\database.php"
+			],
+			[
+				"produ",
+				"application\\controllers\\Products.php"
+			],
+			[
+				"admin/foo",
+				"application\\views\\admin\\footer.php"
+			],
+			[
+				"adminread",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"view_ea",
+				"harviacode\\core\\create_view_read.php"
+			],
+			[
+				"nav",
+				"application\\views\\admin\\navbar.php"
+			],
+			[
+				"myad",
+				"application\\controllers\\Myadmin.php"
+			],
+			[
+				"adminli",
+				"application\\views\\admin\\admins_list.php"
+			],
+			[
+				"prodread",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"ingore",
+				".gitignore"
+			],
+			[
+				"prodrea",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"product_rea",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"produc",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"admin/rea",
+				"application\\views\\admin\\admins_read.php"
+			],
+			[
+				"admindas",
+				"application\\views\\admin\\dashboard.php"
+			],
+			[
+				"login",
+				"application\\views\\admin\\login_box.php"
+			],
+			[
+				"my",
+				"application\\controllers\\Myadmin.php"
+			],
+			[
+				"welcom",
+				"application\\controllers\\Welcome.php"
+			],
+			[
+				"patt_fo",
+				"application\\views\\admin\\patterns_form.php"
+			],
+			[
+				"pat",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"patn",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"fonts",
+				"application\\controllers\\Fonts.php"
+			],
+			[
+				"contr",
+				"application\\controllers\\Fonts.php"
+			],
+			[
+				"tem",
+				"application\\models\\Templates_model.php"
+			],
+			[
+				"myadmin",
+				"application\\controllers\\Myadmin.php"
+			],
+			[
+				"navb",
+				"application\\views\\admin\\navbar.php"
+			],
+			[
+				"product",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"produrea",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"template_mo",
+				"application\\models\\Templates_model.php"
+			],
+			[
+				"productfomr",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"prolist",
+				"application\\views\\admin\\products_list.php"
+			],
+			[
+				"prorea",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"product_mo",
+				"application\\models\\Products_model.php"
+			],
+			[
+				"producrea",
+				"application\\views\\admin\\products_read.php"
+			],
+			[
+				"product_for",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"patterform",
+				"application\\views\\admin\\patterns_form.php"
+			],
+			[
+				"tempfor",
+				"application\\views\\admin\\templates_form.php"
+			],
+			[
+				"patterfo",
+				"application\\views\\admin\\patterns_form.php"
+			],
+			[
+				"templrea",
+				"application\\views\\admin\\templates_read.php"
+			],
+			[
+				"templlis",
+				"application\\views\\admin\\templates_list.php"
+			],
+			[
+				"patterrea",
+				"application\\views\\admin\\patterns_read.php"
+			],
+			[
+				"patterli",
+				"application\\views\\admin\\patterns_list.php"
+			],
+			[
+				"patt",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"fontsread",
+				"application\\views\\admin\\fonts_read.php"
+			],
+			[
+				"adminead",
+				"application\\views\\admin\\admins_read.php"
+			],
+			[
+				"adminfo",
+				"application\\views\\admin\\admins_form.php"
+			],
+			[
+				"adminlis",
+				"application\\views\\admin\\admins_list.php"
+			],
+			[
+				"fontsli",
+				"application\\views\\admin\\fonts_list.php"
+			],
+			[
+				"prodfo",
+				"application\\views\\admin\\products_form.php"
+			],
+			[
+				"produclis",
+				"application\\views\\admin\\products_list.php"
+			],
+			[
+				"fontsrea",
+				"application\\views\\admin\\fonts_read.php"
+			],
+			[
+				"fontfor",
+				"application\\views\\admin\\fonts_form.php"
+			],
+			[
+				"foo",
+				"application\\views\\admin\\footer.php"
+			],
+			[
+				"welcome",
+				"application\\views\\admin\\welcome_message.php"
+			],
+			[
+				"navbar",
+				"application\\views\\admin\\navbar.php"
+			],
+			[
+				"admin/admin",
+				"application\\views\\admin\\admins_form.php"
+			],
+			[
+				"assetsboot",
+				"assets\\css\\bootstrap.css"
+			],
+			[
+				"fonli",
+				"application\\views\\admin\\fonts_list.php"
+			],
+			[
+				"fon",
+				"application\\controllers\\Fonts.php"
+			],
+			[
+				"prodlis",
+				"application\\views\\admin\\products_list.php"
+			],
+			[
+				"templi",
+				"application\\views\\admin\\templates_list.php"
+			],
+			[
+				"templatelis",
+				"application\\views\\admin\\templates_list.php"
+			],
+			[
+				"fontlis",
+				"application\\views\\admin\\fonts_list.php"
+			],
+			[
+				"patterns_list",
+				"application\\views\\admin\\patterns_list.php"
+			],
+			[
+				"patter",
+				"application\\controllers\\Patterns.php"
+			],
+			[
+				"coll",
+				"application\\controllers\\Pattern_collections.php"
+			],
+			[
+				"main.",
+				"assets\\css\\main.css"
+			],
+			[
+				"fontslist",
+				"application\\views\\admin\\fonts_list.php"
+			],
+			[
+				"view/admin",
+				"application\\views\\admin\\products_list.php"
+			],
+			[
+				"templates",
+				"application\\controllers\\Templates.php"
+			],
+			[
+				"view/admin/templ",
+				"application\\views\\admin\\template.php"
+			],
+			[
+				"admins",
+				"application\\controllers\\Admins.php"
+			],
+			[
+				"welcome_m",
+				"application\\views\\admin\\welcome_message.php"
+			],
+			[
+				"myadminmo",
+				"application\\models\\Myadmin_model.php"
+			],
+			[
+				"da",
+				"application\\config\\database.php"
+			],
+			[
+				"server",
+				"server.js"
+			],
+			[
+				"general_",
+				"application\\views\\frontend\\layout\\general_template.php"
+			],
+			[
+				"conif",
+				"application\\config\\config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"b",
+				"E:\\wamp\\www\\beyondphenom\\beyondphenom.sublime-project"
+			],
+			[
+				"",
+				"E:\\wamp\\www\\beyondphenom\\beyondphenom.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
